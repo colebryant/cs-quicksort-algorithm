@@ -1,4 +1,4 @@
-# cs-quicksort-algorithm
+# quicksort-algorithm
 
 While reading "A Common Sense Guide to Data Structures and Algorithms" by Jay Wengrow, I decided to practice implementing the QuickSort algorithm in C#.
 
